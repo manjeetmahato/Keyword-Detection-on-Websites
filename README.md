@@ -6,12 +6,6 @@ This project involves developing an algorithm that takes an HTML page as input a
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Feature Engineering](#feature-engineering)
-- [Model](#model)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The project takes HTML files and classifies them into one of three categories based on the presence and detail of tumor board information:
@@ -38,3 +32,4 @@ The dataset includes the following files:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tumor-board-detection.git
+   
