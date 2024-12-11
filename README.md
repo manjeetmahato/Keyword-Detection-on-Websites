@@ -5,7 +5,6 @@ This project involves developing an algorithm that takes an HTML page as input a
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
 
 ## Project Overview
 The project takes HTML files and classifies them into one of three categories based on the presence and detail of tumor board information:
