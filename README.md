@@ -28,8 +28,3 @@ The dataset includes the following files:
 - `2`: Medium confidence; tumor boards are mentioned, but not the main focus.
 - `3`: High confidence; page is dedicated to tumor board details.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tumor-board-detection.git
-   
